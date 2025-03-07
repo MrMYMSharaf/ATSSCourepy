@@ -1,0 +1,7 @@
+streamlit
+pdfminer.six 
+pandas 
+python-dotenv 
+langchain-google-genai
+pytesseract
+docx2txt
